@@ -1,5 +1,3 @@
-Certainly! Here are the job descriptions you provided, formatted in a consistent structure:
-
 **Low Latency Quant Researcher ($400,000/yr - $1,000,000/yr)**
 
 A very successful, under the radar proprietary trading group is looking for an experienced Quantitative Researcher to help lead its low latency trading team. You'll have the opportunity to be among the first hires within this entrepreneurial & well-resourced trading team. Compensation packages are extremely competitive & the team is willing to wait out non-competes.
