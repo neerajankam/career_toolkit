@@ -17,3 +17,7 @@ Surprisingly, many of these agencies are based in the UK 🇬🇧.
 13. [Maven Alpha](https://www.linkedin.com/company/maven-alpha/)
 14. [Stanford Black Limited](https://www.linkedin.com/company/stanford-black-ltd/)
 15. [X4 Alpha](https://www.linkedin.com/company/x4-alpha/)
+16. [Paragon Alpha](https://www.linkedin.com/company/paragonalpha/)
+17. [GQR Global Markets](https://www.linkedin.com/company/gqr-global-markets/)
+18. [Cititec Talent](https://www.linkedin.com/company/cititec/life/)
+19. [Brain Gain Recruiting](https://www.linkedin.com/company/brain-gain-recruiting/)
